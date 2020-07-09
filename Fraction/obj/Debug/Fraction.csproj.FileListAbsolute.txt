@@ -1,0 +1,7 @@
+C:\PRG\practic\Fraction\bin\Debug\Fraction.exe.config
+C:\PRG\practic\Fraction\bin\Debug\Fraction.exe
+C:\PRG\practic\Fraction\bin\Debug\Fraction.pdb
+C:\PRG\practic\Fraction\obj\Debug\Fraction.csprojAssemblyReference.cache
+C:\PRG\practic\Fraction\obj\Debug\Fraction.csproj.CoreCompileInputs.cache
+C:\PRG\practic\Fraction\obj\Debug\Fraction.exe
+C:\PRG\practic\Fraction\obj\Debug\Fraction.pdb
